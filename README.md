@@ -476,3 +476,9 @@ demos remain subject to vendor terms, including user, feature, automation, and
 output sharing restrictions. Cracked copies, stolen keys, unauthorized key
 sharing, and bypassing license restrictions are not authorized. This guidance
 does not amend MIT or third-party licenses.
+
+## Repository overview
+
+Upstream REA learning copy; see the original project and license before using or redistributing it.
+
+**Suggested GitHub topics:** `open-source` `mcp` `learning`.
